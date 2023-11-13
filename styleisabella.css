@@ -20,8 +20,19 @@ em strong {
 }
 #banner (
     width: 100%;
-
-    )
+  )
 .beneficios {
-   background: #cccccc
- }
+    background: #CCCCCC
+}
+.imagembeneficios {
+      width: 50%;
+}
+h2{
+    text-align: center;
+}
+.itens {
+    font-style: italic;
+}
+li{
+    border: 3px solid black;
+}
