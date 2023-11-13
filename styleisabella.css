@@ -1,5 +1,8 @@
 body {
-    background; #CCCCCC
+    background; #CCCCCC;
+}
+.principal { 
+    background: #cccccc;
 }
 h1 (
     text-align: center;
@@ -18,7 +21,7 @@ em strong {
 #banner (
     width: 100%;
 
-) 
-   itens( 
-    
-   )  
+    )
+.beneficios {
+   background: #cccccc
+ }
