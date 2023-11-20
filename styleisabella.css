@@ -3,6 +3,7 @@ body {
 }
 .principal { 
     background: #cccccc;
+    padding: 30px;
 }
 h1 (
     text-align: center;
@@ -33,6 +34,9 @@ h2{
 .itens {
     font-style: italic;
 }
-li{
-    border: 3px solid black;
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 15%;
 }
